@@ -27,7 +27,6 @@
     grid-template-areas:
       "A B"
       "C B";
-
     width: fit-content;
     max-width: fit-content;
     padding-inline: 4.8rem;
